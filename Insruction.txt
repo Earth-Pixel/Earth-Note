@@ -1,0 +1,30 @@
+
+Installation Instructions for Earth Note (Java Installer Not Working)
+If the Java installer does not work on your system, follow these manual steps to install Earth Note:
+
+1. Extract the Archive
+Locate the provided installation archive (e.g., EarthNote.zip).
+Right-click on the archive and choose Extract All... (or use a tool like WinRAR or 7-Zip).
+Extract the contents to your desired installation directory (e.g., C:\Program Files\EarthNote or Documents\EarthNote).
+
+2. Launch the Application
+Navigate to the extracted folder.
+If the application includes a file named EarthNote.exe, double-click it to start the application.
+If the application uses Python (EarthNote.py):
+Ensure Python 3.x is installed on your system.
+Open a terminal or command prompt.
+Run the following command:
+bash
+Copy code
+python EarthNote.py
+
+3. Optional: Create a Shortcut
+To make launching easier:
+Right-click on EarthNote.exe (or EarthNote.py).
+Choose Create Shortcut.
+Drag the shortcut to your desktop or another convenient location.
+
+4. Notes
+Java is currently not working on your system, so the automated installer is unavailable.
+Ensure all required dependencies (like Python for .py files) are installed.
+If you encounter any issues, please contact support or refer to the README file included in the archive.
